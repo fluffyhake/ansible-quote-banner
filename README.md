@@ -1,0 +1,1 @@
+# ansible-quote-banner-script
