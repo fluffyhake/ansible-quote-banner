@@ -1,0 +1,5 @@
+https://quotes.rest/
+
+https://realpython.com/api-integration-in-python/
+
+https://stackoverflow.com/questions/17301938/making-a-request-to-a-restful-api-using-python
